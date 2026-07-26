@@ -4,7 +4,7 @@
 
 ## 🎮 About The Game
 
-**CataFruit** is a 2D physics-based projectile puzzle game developed using **Unity Engine** and **C#**.
+**CataFruit** is a 3D physics-based projectile puzzle game developed using **Unity Engine** and **C#**.
 
 The game allows players to launch different fruit projectiles using a catapult system to destroy obstacles, defeat enemies, and complete levels through accurate aiming, projectile calculations, and strategic decision-making.
 
