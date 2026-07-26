@@ -131,11 +131,11 @@ The audio system supports:
 
 ---
 # 📸 Screenshots
-![CataFruit Aim](Assets/Images/"Screenshot 2026-07-25 152550.png")
+![CataFruit Aim](Assets/Images/catafruit-aim.png)
 
-![CataFruit Launch](Assets/Images/"Screenshot 2026-07-25 152550.png")
+![CataFruit Launch](Assets/Images/catafruit-launch.png)
 
-![CataFruit Hit](Assets/Images/"Screenshot 2026-07-25 152733.png")
+![CataFruit Hit](Assets/Images/catafruit-hit.png)
 
 
 ---
